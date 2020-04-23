@@ -1,0 +1,4 @@
+FLASK_APP=manage
+FLASK_ENV=development
+FLASK_RUN_PORT=5000
+BOILERPLATE_ENV="dev"
